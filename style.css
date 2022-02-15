@@ -1,0 +1,51 @@
+.box-one{
+    background: yellow;
+    display: inline-block;
+    /* display: inline-block; */
+}
+.box-two {
+    display: block ;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+.box-three {
+    display: block ;
+    float: left;
+    width: 300px;
+    height: 100px;
+    background: gray;
+}
+p{
+    display: inline;
+}
+.need-clear {
+    clear: both;
+}
+.disp-block {
+    display: block;
+}
+.disp-inline-block {
+    display: inline-block;
+}
+.disp-inline {
+    display: inline;
+}
+.back-gold {
+    background: gold;
+}
+.img-item {
+	width: 64px !important; 
+	height: 64px;
+}
+.header-shahin {
+	background: lightgray;
+}
+.main-shahin {
+	background: gray;
+	color: wheat;
+}
+.footer-shahin {
+	background: gold;
+}
